@@ -1,6 +1,7 @@
 # AA-NavUI
 Minimum sample to reproduce bug
 
+![image](https://raw.githubusercontent.com/frankkienl/AA-NavUI/master/Schermafbeelding%202021-11-26%20om%2015.58.59.png)
 
 create a config with the following content:  
 ```
