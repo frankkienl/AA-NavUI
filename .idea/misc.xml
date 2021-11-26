@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/direction_white_straight.xml" value="0.27685185185185185" />
+        <entry key="app/src/main/res/drawable-v24/direction_white_turnright.xml" value="0.27685185185185185" />
+        <entry key="app/src/main/res/drawable-v24/ic_alt_route.xml" value="0.12685185185185185" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12685185185185185" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2563323201621074" />
+        <entry key="app/src/main/res/xml/automotive_app_desc.xml" value="0.31302083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
